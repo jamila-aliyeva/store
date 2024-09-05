@@ -66,7 +66,7 @@ nav{
 
 }
 .nav__logo{
-    padding-left: 30px;
+    padding-left: 20px;
 }
 .nav__actions{
     display: flex;

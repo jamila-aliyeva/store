@@ -1,10 +1,12 @@
 <script setup>
 import Header from "../components/header/index.vue";
+import Footer from "../components/footer/index.vue";
+
 </script>
 
 <template>
-        <Header/>
     <div class="container">
+        <Header/>
         <div class="hero__bg">
             <div class="hero__content">
         <h2>Creative Home Simpify your Furniture</h2>
@@ -14,6 +16,7 @@ import Header from "../components/header/index.vue";
         </div>
         </div>
     </div>
+    <Footer/>
 </template>
 
 
