@@ -65,6 +65,9 @@ nav{
     }
 
 }
+.nav__logo{
+    padding-left: 30px;
+}
 .nav__actions{
     display: flex;
     align-items: center;
