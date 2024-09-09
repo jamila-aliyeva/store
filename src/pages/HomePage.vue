@@ -2,6 +2,7 @@
 import Header from "../components/header/index.vue";
 import Footer from "../components/footer/index.vue";
 import CreatingHome from "./CreatingHome.vue";
+import AllProducts from "./AllProducts.vue";
 
 </script>
 
@@ -18,6 +19,7 @@ import CreatingHome from "./CreatingHome.vue";
         </div>
     </div>
     <CreatingHome/>
+    <AllProducts/>
     <Footer/>
 </template>
 
